@@ -1,4 +1,5 @@
 # MusicClassification
+## Group Final Project - Artificial Intelligence for Text Analytics
 
 Repository for the source code used for Music Classification and dataset used.
 
@@ -7,4 +8,9 @@ Repository for the source code used for Music Classification and dataset used.
 - DistilledBERT
 - RoBERTa
 
-Team 5 - Tina, Simona, Silvia and Clémence
+Team 5
+Team members:
+Yu-Han Gao (Tina) – 711236116
+Clémence Millet – 711183498
+Yu-Han Su (Silvia) – 711236110
+Hui-Min Chen (Simona)- 711236113
